@@ -1,0 +1,9 @@
+{
+    "name": "eureka_test_task",
+    "version": "1.0.0",
+    "dependencies": {
+        "body-parser": "^1.16.0",
+        "express": "^4.14.0",
+        "hbs": "^4.2.0"
+    }
+}
